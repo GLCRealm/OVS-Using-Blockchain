@@ -1,4 +1,4 @@
-# 🗳️ Online Voting System using Blockchain (OVS 2.0)
+# 🗳️ Online Voting System using Blockchain
 
 A secure, fast, and transparent online voting platform powered by **Blockchain** and OTP-based **email verification**. This system leverages modern web technologies like **FastAPI** and **Flask**, with Python-based backend logic to ensure data integrity, voter authentication, and tamper-proof voting processes.
 
@@ -18,7 +18,7 @@ A secure, fast, and transparent online voting platform powered by **Blockchain**
 ## 📂 Project Structure
 
 ```
-OVS_2.O-master/
+OVS-Using-Blockchain/
 │
 ├── main.py                        # FastAPI backend server
 ├── otp.py                         # Email OTP generator and verifier
@@ -48,8 +48,8 @@ OVS_2.O-master/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/OVS_2.O.git
-cd OVS_2.O-master
+git clone https://github.com/glcrealm/OVS-Using-Blockchain.git
+cd OVS-Using-Blockchain
 ```
 
 ### 2. Create a virtual environment
@@ -125,12 +125,6 @@ uvicorn main:app --reload
 - **Jinja2**
 - **Blockchain (custom)**
 - **SMTP (Gmail)**
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
