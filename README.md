@@ -109,14 +109,6 @@ uvicorn main:app --reload
 
 ---
 
-## 📸 Screenshots
-
-![Register Page](f)
-![OTP Verification](f)
-![Voting Dashboard](f)
-
----
-
 ## 🛠️ Tech Stack
 
 - **Python 3**
